@@ -8,9 +8,9 @@ developed a responsive todo web app featuring functionality for adding, deleting
 ![Screenshot (302)](https://github.com/Aditya-1510/ToDo-app/assets/112757099/39ae658f-379b-4f3d-8a13-5ccc660ec086)
 
 #OverView
-Responsive Web App
-Todo Management:
-Toggle Button for Completion of task:
-User-Friendly Interface:
-Delete option to remove task
+Responsive Web App,
+Todo Management:,
+Toggle Button for Completion of task:,
+User-Friendly Interface:,
+Delete option to remove task,
 Edit option to make change in task:
